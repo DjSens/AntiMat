@@ -6,7 +6,8 @@ Russian AntiMat routine on Pascal (Lazarus) Free for all
 
 Дарю исходники всем желающим, можете перевести алгоритм на любой язык и использовать в своих проектах (сайтах, форумах и т.п.)
 
-У меня написано на Паскале (Lazarus). Исходники и EXE прилагаются. + см. скриншот
+У меня написано на Паскале (Lazarus). Исходники прилагаются. + см. скриншот - https://www.cyberforum.ru/blog_attachment.php?attachmentid=7173&d=1634065219
+(EXE есть на киберфоруме - https://www.cyberforum.ru/blogs/1506633/blog7299.html )
 
 Сначала идёт процедура "Sorting":
 1. перевод русских плохих слов в транслит по таблице Translit_2
